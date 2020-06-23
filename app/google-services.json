@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "820718410990",
+    "firebase_url": "https://dictionaryfirebase-2f05c.firebaseio.com",
+    "project_id": "dictionaryfirebase-2f05c",
+    "storage_bucket": "dictionaryfirebase-2f05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820718410990:android:c1cb16dec76bb5dc88a7ff",
+        "android_client_info": {
+          "package_name": "com.tamersarioglu.dictionaryfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820718410990-ehfdb8g8h82k94p5ov3v4g14ng9rvi58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCK6AJ8oBbFv8ajO7GYBsZhbY49jqM8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820718410990-ehfdb8g8h82k94p5ov3v4g14ng9rvi58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820718410990:android:e9a190f20353583888a7ff",
+        "android_client_info": {
+          "package_name": "com.tamersarioglu.sozluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820718410990-ehfdb8g8h82k94p5ov3v4g14ng9rvi58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCK6AJ8oBbFv8ajO7GYBsZhbY49jqM8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820718410990-ehfdb8g8h82k94p5ov3v4g14ng9rvi58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
